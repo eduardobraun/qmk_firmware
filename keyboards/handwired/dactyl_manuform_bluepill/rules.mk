@@ -13,7 +13,7 @@ MCU = STM32F103
 # Enter lower-power sleep mode when on the ChibiOS idle thread
 OPT_DEFS += -DCORTEX_ENABLE_WFI_IDLE=TRUE
 
-DEFAULT_FOLDER = handwired/bluepill/bluepill70
+DEFAULT_FOLDER = handwired/dactyl_manuform_bluepill/bluepill70
 
 # Build Options
 #   change to "no" to disable the options, or define them in the Makefile in
